@@ -6,7 +6,7 @@ alt="Get it on GitHub"
 height="80">](https://github.com/SAHILDUDHAL21/Flutter-Calculator/releases/download/v1.3.0-stable/app-release.apk)
 
 
-
+## 📸 Screenshots
 
 <div style="text-align: center">
     <img src="app_look.jpg" alt="Player" style="width: 30%; border-radius: 10px">
