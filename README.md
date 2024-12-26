@@ -15,3 +15,4 @@ height="80">](https://github.com/SAHILDUDHAL21/Flutter-Calculator/releases/downl
 
 - Simple Calculator app 
 - Lightweight 
+- Its my first android app
