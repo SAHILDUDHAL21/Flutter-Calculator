@@ -1,3 +1,4 @@
 # calculator
 
-A new Flutter project.
+- Simple Calculator app 
+- Lightweight 
